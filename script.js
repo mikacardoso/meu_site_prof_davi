@@ -2,9 +2,9 @@
 let filmes = [
 
     {
-    titulo: "Interestellar",
+    titulo: " A FORJA",
     imagem: "Imagens/Interstellar_Filme.png",
-    descricao: "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade."
+    descricao: "Narra a jornada de Isaiah Wright, um jovem de 19 anos sem rumo que, após pressão da mãe e mentoria cristã, transforma sua vida através da fé, oração e responsabilidade"
     }
     
     ];
