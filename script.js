@@ -4,7 +4,7 @@ let filmes = [
     {
     titulo: " A FORJA",
     imagem: "Imagens/Interstellar_Filme.png",
-    descricao: "Narra a jornada de Isaiah Wright, um jovem de 19 anos sem rumo que, após pressão da mãe e mentoria cristã, transforma sua vida através da fé, oração e responsabilidade"
+    descricao: "Narra a jornada de Isaiah Wright, um jovem de 19 anos sem rumo que, após pressão da mãe e mentoria cristã, transforma sua vida através da fé, oração e responsabilidade."
     }
     
     ];
@@ -13,9 +13,9 @@ let filmes = [
     let series = [
     
     {
-    titulo: "Stranger Things",
+    titulo: "The Chosen",
     imagem: "Imagens/StrangerThings_Filme.jpg",
-    descricao: "Um grupo de crianças enfrenta forças sobrenaturais e experimentos secretos em uma pequena cidade."
+    descricao: "é um drama histórico revolucionário que narra a vida de Jesus (Jonathan Roumie) na Judeia do século I, com foco nos seus relacionamentos e ensinamentos, visto pelos olhos daqueles que o conheceram."
     }
 
     
