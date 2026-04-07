@@ -15,7 +15,7 @@ let filmes = [
     {
     titulo: "The Chosen",
     imagem: "Imagemserie.jpg",
-    descricao: "é um drama histórico revolucionário que narra a vida de Jesus (Jonathan Roumie) na Judeia do século I, com foco nos seus relacionamentos e ensinamentos, visto pelos olhos daqueles que o conheceram."
+    descricao: "É um drama histórico revolucionário que narra a vida de Jesus (Jonathan Roumie) na Judeia do século I, com foco nos seus relacionamentos e ensinamentos, visto pelos olhos daqueles que o conheceram."
     }
 
     
